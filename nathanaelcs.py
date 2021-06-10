@@ -1,6 +1,6 @@
 # UAS PEMROGRAMAN KOMPUTER D
 
-# PROGRAM GAME
+# PROGRAM GAME SEDERHANA
 
 import random
 z = random.randrange(1, 6)
